@@ -1,0 +1,158 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://dragon-bek.github.io/royalsofantwerpen.github.io" resolutions="1x,2x" timestamp="1548097629517">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="267850828" ref="schrijf-je-in:leden:logs:over-ons:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="345911093" ref="schrijf-je-in:leden:logs:over-ons:index"/>
+    <file name="schrijf-je-in.css" crc="4165647437" ref="schrijf-je-in"/>
+    <file name="nomq_schrijf-je-in.css" crc="425302158" ref="schrijf-je-in"/>
+    <file name="iefonts_schrijf-je-in.css" crc="3824530138" ref="schrijf-je-in"/>
+    <file name="leden.css" crc="285295384" ref="leden"/>
+    <file name="nomq_leden.css" crc="535000195" ref="leden"/>
+    <file name="logs.css" crc="4010187784" ref="logs"/>
+    <file name="nomq_logs.css" crc="428885132" ref="logs"/>
+    <file name="over-ons.css" crc="161838027" ref="over-ons"/>
+    <file name="nomq_over-ons.css" crc="4131224302" ref="over-ons"/>
+    <file name="index.css" crc="473321849" ref="index"/>
+    <file name="nomq_index.css" crc="15248849" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="weneedyou.gif" crc="501212259" seo="true" mt="1548094055000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:leden:logs:schrijf-je-in:over-ons"/>
+    <file name="museutils.js" crc="340535759" ref="index:leden:logs:schrijf-je-in:over-ons"/>
+    <file name="whatinput.js" crc="86476730" ref="index:leden:logs:schrijf-je-in:over-ons"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:leden:logs:schrijf-je-in:over-ons"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:leden:logs:schrijf-je-in:over-ons"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:leden:logs:schrijf-je-in:over-ons"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:leden"/>
+    <file name="webpro.js" crc="4059564322" ref="index:leden:logs:schrijf-je-in:over-ons"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:leden:logs:schrijf-je-in:over-ons"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:leden:logs:schrijf-je-in:over-ons"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:leden:logs:schrijf-je-in:over-ons"/>
+    <file name="require.js" crc="7928878" ref="index:leden:logs:schrijf-je-in:over-ons"/>
+    <file name="form_check.php" crc="4020933626" ref="leden"/>
+    <file name="form_throttle.php" crc="4259590256" ref="leden"/>
+    <file name="form_process.php" crc="37464564" ref="leden"/>
+    <file name="form-u3020.php" crc="4208939866" ref="leden"/>
+    <file name="form-u3902.php" crc="4178454944" ref="schrijf-je-in"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-545x545.svg" crc="344246746" seo="true" ref="index:leden:logs:schrijf-je-in:over-ons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="schrijf-je-in" alt=""/>
+      <caption webpage="schrijf-je-in" alt=""/>
+      <caption webpage="logs" alt=""/>
+      <caption webpage="logs" alt=""/>
+      <caption webpage="over-ons" alt=""/>
+      <caption webpage="over-ons" alt=""/>
+      <caption webpage="leden" alt=""/>
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="pasted svg 545x545_poster_.png" crc="103945437" ref="index"/>
+    <file name="adventure-black-and-white-boat-910213.jpg" crc="269954917" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adventure-black-and-white-boat-910213_2x.jpg" crc="4083534633" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adventure-black-and-white-boat-910213-u2827-fr.jpg" crc="3824645180" ref="index"/>
+    <file name="adventure-black-and-white-boat-910213-u2827-fr_2x.jpg" crc="4179005734" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:leden:logs:schrijf-je-in:over-ons"/>
+    <file name="mypp.jpg" crc="4151167511" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="mypp_2x.jpg" crc="402284765" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="20952319_468014896905834_8565044831317917696_n.gif" crc="322299320" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="pasted image 300x300218x218.jpg" crc="431381461" seo="true" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="theroyalslogo.png" crc="457881633" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="theroyalslogo_2x.png" crc="352795059" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="pasted image 498x268-crop-u3002.jpg" crc="189164205" seo="true" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="pasted image 498x268-crop-u4307.jpg" crc="189164205" seo="true" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="pasted image 498x268-crop-u4325.jpg" crc="189164205" seo="true" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="pasted image 498x268-crop-u4322.jpg" crc="189164205" seo="true" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="checkboxunchecked_2x.jpg" crc="4041065271" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover_2x.jpg" crc="421393327" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown_2x.jpg" crc="119826174" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="checkboxchecked_2x.jpg" crc="8340162" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover_2x.jpg" crc="461578639" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown_2x.jpg" crc="3782867047" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="mypp-u2904-fr.jpg" crc="3801430032" ref="leden"/>
+    <file name="mypp-u2904-fr_2x.jpg" crc="113413292" ref="leden"/>
+    <file name="pasted image 300x300101x101.jpg" crc="4029582176" seo="true" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="theroyalslogo-u4340-fr.png" crc="96336117" ref="leden"/>
+    <file name="theroyalslogo-u4340-fr_2x.png" crc="3947651385" ref="leden"/>
+    <file name="pasted image 498x268-crop-u30022.jpg" crc="526477756" seo="true" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="pasted image 498x268-crop-u43072.jpg" crc="526477756" seo="true" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="pasted image 498x268-crop-u43252.jpg" crc="526477756" seo="true" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="pasted image 498x268-crop-u43222.jpg" crc="526477756" seo="true" ref="leden">
+      <caption webpage="leden" alt=""/>
+    </file>
+    <file name="u4173-9.png" crc="4161656194" ref="over-ons"/>
+    <file name="u4173-9_2x.png" crc="4049635121" ref="over-ons"/>
+    <file name="u4173-92.png" crc="4230644740" ref="over-ons"/>
+    <file name="u4173-9_2x2.png" crc="154972858" ref="over-ons"/>
+  </folder>
+  <file name="index.html" crc="4152639245" seo="true" mt="1547397170615" redirect="true"/>
+  <file name="leden.html" crc="3937412939" seo="true" mt="1548095269690" redirect="true"/>
+  <file name="logs.html" crc="40540441" seo="true" mt="1548096234950" redirect="true"/>
+  <file name="schrijf-je-in.html" crc="4007158232" seo="true" mt="1548096339753" redirect="true"/>
+  <file name="over-ons.html" crc="474299829" seo="true" mt="1547397105425" redirect="true"/>
+</manifest>
